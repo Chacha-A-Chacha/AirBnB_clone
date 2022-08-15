@@ -1,0 +1,20 @@
+article div.amenities h2 {
+    font-size: 16px;
+    margin-top: 40px;
+    border-bottom: #DDDDDD 1px;
+
+}
+
+article div.reviews h2 {
+    margin-top: 40px;
+    font-size: 16px;
+    border-bottom: #DDDDDD 1px;
+}
+
+article div.reviews h3 {
+    font-size: 14px;
+}
+
+article div.reviews p {
+    font-size: 12px
+}
